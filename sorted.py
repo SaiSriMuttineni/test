@@ -5,7 +5,7 @@ def sortedthree(a, b, c):
         else:
             return (b, c, a)
     else:
-    if (a > c):
+        if (a > c):
             return (c, a, b)
         else:
             return (a, b, c)
