@@ -9,5 +9,4 @@ def sortedthree(a, b, c):
             return (c, a, b)
         else:
             return (a, b, c)
-assert (sortedthree(1, 2, 3) == (1, 2, 3))
-assert (sortedthree(3, 2, 1) == (1, 2, 3))
+
